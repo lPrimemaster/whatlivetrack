@@ -1,0 +1,8 @@
+credentials.json
+token.pickle
+setup.ps1
+*.txt
+*.sha
+!requirements.txt
+
+.env/
